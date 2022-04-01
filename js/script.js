@@ -1,6 +1,6 @@
 // Titles: https://omdbapi.com/?s=thor&page=1&apikey=dc9522de
 // details: http://www.omdbapi.com/?i=tt3896198&apikey=dc9522de
-
+console.log('js file added');
 const movieSearchBox = document.getElementById('movie-search-box');
 const searchList = document.getElementById('search-list');
 const resultGrid = document.getElementById('result-grid');
